@@ -4,7 +4,8 @@
  * **Email**:laldko@mail.ru
  * **Phone number**: +375445387113
  * **Github**: [tomioka25](https://github.com/Tomioka25)
-***
+
+****
 ## About me
 
 At the moment I am studying at BSUIR, I went to courses to acquire useful knowledge that will help me become a programmer in the future. My goal is to get as much knowledge as possible and practice writing code.
